@@ -1,2 +1,2 @@
 # hello-world
-Just another depository
+I am new to coding and looking forward to learning. 
